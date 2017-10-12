@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    background-color: rgb(167, 140, 140)
+}
+header {
+    height: 15%;
+    width: 100%;
+    background-color: rgb(180, 100, 100);
+}
+.outer {
+
+}
+.main-container {
+    background-color: rgb(161, 92, 132);
+    height: 100%;
+    margin: 0px 10% 0px 10%;
+}
+footer {
+float:bottom;
+height: 10%;
+background-color: rgb(129, 51, 51);
+margin: 0px 10% 0px 10%;
+}

@@ -1,0 +1,46 @@
+#one {
+background-color: grey;
+height: 12vh;
+color: white;
+font-size: 4em;
+
+}
+.box {
+    height: 80%;
+    width: 12%;
+    background: rgb(151, 151, 255);
+    margin: 10px 0 10px 30px;
+    display: inline-block;
+}
+#space {
+    background-color: rgb(255, 255, 255);
+    height: 40vh;
+    color: rgb(0, 0, 0);
+    font-size: 1em;
+    text-align: center;
+}
+#two {
+    background-color: #547bb9;
+    height: 12vh;
+    color: white;
+    font-size: 4em;
+}
+#three {
+    background-color: rgb(103, 182, 143);
+    height: 12vh;
+    color: white;
+    font-size: 4em;
+}
+#four {
+    background-color: rgb(158, 180, 85);
+    height: 12vh;
+    color: white;
+    font-size: 4em;
+    
+}
+#five {
+    background-color: rgb(238, 225, 43);
+    height: 12vh;
+    color: white;
+    font-size: 4em;
+}
